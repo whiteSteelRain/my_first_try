@@ -1,0 +1,4 @@
+wxcloudrun/en_zh_cmodel/ filter=lfs diff=lfs merge=lfs -text
+wxcloudrun/zh_en_cmodel/ filter=lfs diff=lfs merge=lfs -text
+wxcloudrun/zh_en_cmodel/model.bin filter=lfs diff=lfs merge=lfs -text
+wxcloudrun/en_zh_cmodel/model.bin filter=lfs diff=lfs merge=lfs -text
